@@ -151,6 +151,7 @@ Write 도구로 저장: .hiring-pipeline/company-context.md
 ## 회사 컨텍스트
 
 **회사명:** [회사명]
+**회사 유형:** [전통 대기업 / 유니콘·스케일업 / 스타트업 / 글로벌 빅테크]
 **프로필 출처:** [known-db / keyword-inference / user-confirmed / general]
 **최종 확인:** 사용자 확인 완료
 
