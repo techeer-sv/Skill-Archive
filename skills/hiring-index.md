@@ -8,16 +8,17 @@
 |------|------|------|----------|
 | [이력서 리뷰](hiring-resume-review/SKILL.md) | `/hiring-resume-review` | ATS 시뮬레이션 + 리크루터 스크리닝 | ATS 점수(0~100) + Red Flag 체크 |
 | [포트폴리오 리뷰](hiring-portfolio-review/SKILL.md) | `/hiring-portfolio-review` | 프로젝트 품질과 의사결정 평가 | 3영역 평가 (의사결정/문제해결/성과) |
-| [코딩 테스트](hiring-coding-test/SKILL.md) | `/hiring-coding-test` | FAANG 스타일 코딩 테스트 | 4차원 루브릭 (1~4점) |
-| [면접 시뮬레이션](hiring-interview/SKILL.md) | `/hiring-interview` | 기술/인성 면접 | 6단계 Hire 스케일 / STAR 5점 |
-| [통합 파이프라인](hiring-full-pipeline/SKILL.md) | `/hiring-full-pipeline` | 전체 프로세스 (REJECT 시 중단) | 단계별 PASS/REJECT |
+| [코딩 테스트](hiring-coding-test/SKILL.md) | `/hiring-coding-test` | FAANG 스타일 코딩 테스트 + Take-home 과제 | 4차원 루브릭 (1~4점) |
+| [면접 시뮬레이션](hiring-interview/SKILL.md) | `/hiring-interview` | 기술/인성/회사가치 면접 | 6단계 Hire 스케일 / STAR 5점 |
+| [통합 파이프라인](hiring-full-pipeline/SKILL.md) | `/hiring-full-pipeline` | 회사별 맞춤 프로세스 (REJECT 시 중단) | 단계별 PASS/REJECT |
 
 ## 공통 모듈
 
 | 모듈 | 설명 |
 |------|------|
-| [평가 프레임워크](hiring-common/evaluation-framework.md) | ATS, FAANG 루브릭, STAR 등 실전 평가 기준 |
-| [입력 파싱 가이드](hiring-common/input-parser.md) | 이력서/포트폴리오/공고 입력 처리 |
+| [평가 프레임워크](hiring-common/evaluation-framework.md) | ATS, FAANG 루브릭, Take-home, STAR 등 실전 평가 기준 |
+| [입력 파싱 가이드](hiring-common/input-parser.md) | 이력서/포트폴리오/공고 입력 처리 + 회사명 추출 |
+| [Known Company DB](hiring-common/company-profiles.md) | 한국/글로벌 빅테크 채용 프로세스 DB + 키워드 시그널 |
 
 ## 판정 체계
 
