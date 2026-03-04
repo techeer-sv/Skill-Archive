@@ -1,5 +1,6 @@
-# 학습 원본 데이터 (개인 Slack 메시지 기반)
+# 학습 원본 데이터 (개인 Slack 메시지 기반, 개인정보 포함)
 references/learned/kevin-style-profile.md
+references/learned/kevin-style-profile.v2.md
 
 # 대상 유저 개인정보 (실제 Slack User ID 포함)
 references/target-user.md

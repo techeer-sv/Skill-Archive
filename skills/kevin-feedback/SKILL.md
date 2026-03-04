@@ -19,9 +19,14 @@ Kevin의 말투로 이력서 피드백을 제공하는 스킬입니다.
 
 ### Step 1. 스타일 프로파일 읽기
 
-`references/learned/kevin-style-profile.md`를 읽어 Kevin의 말투 패턴을 파악합니다.
+아래 순서로 파일을 확인하고 **처음으로 존재하는 파일**을 읽습니다:
 
-- 파일이 없으면 `references/learned/kevin-style-profile.public.md`를 대신 읽습니다.
+1. `references/learned/kevin-style-profile.v2.public.md` — v2 공개판 (우선 사용)
+2. `references/learned/kevin-style-profile.v2.md` — v2 수집본 (개인정보 포함, fallback)
+3. `references/learned/kevin-style-profile.md` — v1 (기존 수집 데이터)
+4. `references/learned/kevin-style-profile.public.md` — public fallback
+
+v2.public이 존재하더라도 **LAYER 0~3이 충분히 채워지지 않은 경우** v2.md도 함께 참고합니다.
 
 ---
 
